@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @R4mbu 
 - 👀 I’m interested in Basketball, Coding, Gaming, Law, etc.
-- 🌱 I’m currently learning coding (Beginner)
-- 📫 How to reach me: My ig: aerondc_
+- 🌱 I’m currently learning coding (Intermediate)
 - 😄 Pronouns: he/him
 
 <!---
